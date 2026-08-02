@@ -37,7 +37,7 @@
     "coinType": 60,
     "derivationPath": "m/44'/60'/0'",
     "chainId": 56,
-    "rpcUrl": "https://bsc-rpc.publicnode.com",
+    "rpcUrl": "https://bsc-dataseed.bnbchain.org",
     "explorerUrl": "https://bscscan.com/tx/",
     "decimals": 18,
     "apiUrl": "https://api.etherscan.io/v2/api",
