@@ -2,7 +2,7 @@
   {
     "name": "ZypChain Mainnet",
     "symbol": "ZYP",
-    "coingeckoId": "anychain",
+    "coingeckoId": "zypchain",
     "imgPath": "https://raw.githubusercontent.com/solutionprovider25/zyphion-wallet-assets/main/icons/zyp.png",
     "coinType": 60,
     "derivationPath": "m/44'/60'/0'",
