@@ -2,11 +2,11 @@
   {
     "name": "ZypChain Mainnet",
     "symbol": "ZYP",
-    "coingeckoId": "anychain",
+    "coingeckoId": "zypychain",
     "imgPath": "https://raw.githubusercontent.com/solutionprovider25/zyphion-wallet-assets/main/icons/zyp.png",
     "coinType": 60,
     "derivationPath": "m/44'/60'/0'",
-    "chainId": 5108,
+    "chainId": 1350,
     "rpcUrl": "https://mainnet.zyphionscan.org",
     "explorerUrl": "https://zyphionscan.com/tx/",
     "decimals": 18,
