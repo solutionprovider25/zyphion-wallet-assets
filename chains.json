@@ -67,7 +67,7 @@
     "coinType": 60,
     "derivationPath": "m/44'/60'/0'",
     "chainId": 137,
-    "rpcUrl": "https://polygon-rpc.com",
+    "rpcUrl": "https://polygon-bor-rpc.publicnode.com",
     "explorerUrl": "https://polygonscan.com/tx/",
     "decimals": 18,
     "apiUrl": "https://api.etherscan.io/v2/api",
