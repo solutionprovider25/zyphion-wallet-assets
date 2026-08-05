@@ -62,7 +62,7 @@
   {
     "name": "Polygon",
     "symbol": "POL",
-    "coingeckoId": "matic-network",
+   "coingeckoId": "polygon-ecosystem-token",
     "imgPath": "https://raw.githubusercontent.com/solutionprovider25/zyphion-wallet-assets/main/icons/pol.png",
     "coinType": 60,
     "derivationPath": "m/44'/60'/0'",
